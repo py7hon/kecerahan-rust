@@ -1,0 +1,27 @@
+===========
+ kecerahan-rust - kontrol kecerahan layar dengan cli
+===========
+
+
+==========
+penggunaan
+==========
+
+kecerahan - Control screen brightness from the command line.
+
+Usage:
+  kecerahan [options] (-b <brightness_value> | --brightness <brightness_value>)
+  kecerahan -h | --help
+
+Options:
+  -b, --brightness  Set the brightness level (1-999).
+  -h, --help        Show this help message and exit.
+
+=======
+Author:
+=======
+ - Iqbal Rifai (yukifag@proton.me)
+
+===========
+version 1.0
+===========
